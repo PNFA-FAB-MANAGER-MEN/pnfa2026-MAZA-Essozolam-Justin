@@ -3,15 +3,27 @@
 ## Fait aujourd'hui
 
 - Formation des groupes d'au moins 24 Personnes
-- Ils au total 4 groupes
+- On a au total 4 groupes
 - Rotation de chaque groupe au niveau de chaque section
 - Chaque atelier de formation dure 2h de temps
 
 ## Appris
 ### section 1 : Impression 3D et la modelisation
+1. Logiciel de modélisation : Fusion 360
+2. Introduction a la fabrication additive
+3. Historique sur l'impression 3D
+4. Presentation d'un filament
+5. Type d'imprimante 3D a utiliser
 ### section 2 : Atelier de projet
+- Discussion et echange sur les projets que nous aurions a realiser a la fin de notre formation
 ### Pause dejeuné de 12h30 a 13h30
 ### section 3 : Atelier de decoupe laser
+1. Introduction a la decoupe laser
+2. Installation du logiciel XTool Studio
+3. Prise en main du logiciel
+4. Réalisation d'un exemple et decoupe
+- Exemple de realisation
+[Exemple de decoupe au laser]()
 ### section 4 : Les bases de l'electronique dans les Fablabs
 1. Tension 
 - C'est la force qui pousse les electrons
